@@ -12,6 +12,7 @@ return {
   view = {
     width = 30,
     preserve_window_proportions = true,
+    side: 'right'
   },
   renderer = {
     root_folder_label = false,
